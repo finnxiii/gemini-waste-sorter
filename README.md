@@ -54,4 +54,4 @@ With growing waste issues globally, we wanted to prototype a low-cost, AI-driven
 
 ## 📷 Screenshots & Demo
 
-Coming soon – stay tuned!
+![S.O.R.T.S. Setup](./demo-setup.jpg)
