@@ -1,8 +1,8 @@
-# ♻️ S.O.R.T.S. – Smart Object Recognition Trash Sorting System
+# ♻️ SORTS – Smart Object Recognition Trash Sorting System
 
 🏆 **Winner of “Most Adventurous Hack” – iForge Hack Day 2025**
 
-S.O.R.T.S. is an AI-powered smart trash sorting prototype designed to automate waste classification using embedded systems and real-time image recognition. Built at a MLH hackathon, it demonstrates how embedded AI can tackle real-world sustainability challenges.
+SORTS is an AI-powered smart trash sorting prototype designed to automate waste classification using embedded systems and real-time image recognition. Built at a MLH hackathon, it demonstrates how embedded AI can tackle real-world sustainability challenges.
 
 ---
 
